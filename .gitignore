@@ -1,0 +1,6 @@
+# Original working folders — kept locally, not pushed to GitHub
+Githubio_assets/
+Githubio_code/
+
+# macOS
+.DS_Store
