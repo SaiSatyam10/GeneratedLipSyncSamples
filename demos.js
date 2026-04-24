@@ -2,7 +2,6 @@ const DEMOS = [
   {
     id: "ex1",
     title: "Example 1",
-    description: "English news-anchor style dubbing",
     raw:    "assets/ex1/raw_ex1.mp4",
     audio:  "assets/ex1/audio_ex1.wav",
     dubbed: "assets/ex1/dubbed_output _ex1.mp4",
@@ -10,7 +9,6 @@ const DEMOS = [
   {
     id: "ex2",
     title: "Example 2",
-    description: "Voice-cloned speaker dubbing",
     raw:    "assets/ex2/raw_ex2.mp4",
     audio:  "assets/ex2/audio_ex2.wav",
     dubbed: "assets/ex2/dubbed_output_ex2.mp4",
@@ -18,7 +16,6 @@ const DEMOS = [
   {
     id: "ex3",
     title: "Example 3",
-    description: "Multi-sentence long-form dub",
     raw:    "assets/ex3/raw_ex3.mp4",
     audio:  "assets/ex3/audio_ex3.wav",
     dubbed: "assets/ex3/dubbed_output_ex3.mp4",
@@ -26,7 +23,6 @@ const DEMOS = [
   {
     id: "ex4",
     title: "Example 4",
-    description: "Cross-language lip-sync dubbing",
     raw:    "assets/ex4/raw_ex4.mp4",
     audio:  "assets/ex4/audio_ex4.mp3",
     dubbed: "assets/ex4/dubbed_ex4.mp4",
@@ -34,7 +30,6 @@ const DEMOS = [
   {
     id: "ex5",
     title: "Example 5",
-    description: "Expressive emotional speech dubbing",
     raw:    "assets/ex5/raw_ex5.mp4",
     audio:  "assets/ex5/audio_ex5.wav",
     dubbed: "assets/ex5/dubbed_ex5.mp4",
